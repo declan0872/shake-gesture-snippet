@@ -1,6 +1,6 @@
 # Shake Gesture Snippet
 
-How to parse a JSON feed using Swift 5
+How to show call upon the shake gesture to change the state of an app. Built using Swift 5.
 
 ## Tech Specs
 
