@@ -1,6 +1,6 @@
 # Shake Gesture Snippet
 
-How to show call upon the shake gesture to change the state of an app using the motion event subtype. Built using Swift 5.
+How to show call upon the shake gesture to change the state of an app using the motion event subtype. <br>Built using Swift 5.
 
 ## Tech Specs
 
